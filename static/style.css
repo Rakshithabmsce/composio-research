@@ -1,0 +1,33 @@
+.chart{
+
+    margin-bottom:40px;
+
+}
+
+.dataTables_wrapper{
+
+    margin-top:20px;
+
+}
+
+footer{
+
+    margin-top:50px;
+
+    text-align:center;
+
+    color:gray;
+
+}
+
+.table-responsive{
+
+    background:white;
+
+    padding:20px;
+
+    border-radius:10px;
+
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+
+}
