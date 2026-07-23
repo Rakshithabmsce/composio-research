@@ -231,9 +231,6 @@ def generate_report(analysis, results):
     logger.info("Report generated.")
 
 
-# ----------------------------
-# Main
-# ----------------------------
 
 def main():
 

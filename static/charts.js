@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-    // DataTable
+    
 
     if (typeof $ !== "undefined") {
 
@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     }
 
-    // Verified column coloring
+    
 
     let rows = document.querySelectorAll("tbody tr");
 
